@@ -8,7 +8,8 @@ WordPress, Foundation 3 Framework, JavaScript, jQuery, Sass, GULP.
 - [Institute For Free Speech](https://www.ifs.org/blog/)
 - [Slavic Gospel Association](https://www.sga.org/)
 - [DON WYRTZEN](https://www.donwyrtzen.com/)
-- [DON WYRTZEN](https://www.donwyrtzen.com/)
+- [THE LEADERSHIP FOUNDATION for AMERICAN VALUES](https://leadershipamerica.org)
+- [Quill Partners](https://quillpartnersllc.com)
 
 
 ### Sites and Landing Pages
