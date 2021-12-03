@@ -17,7 +17,7 @@ WordPress, Foundation 3 Framework, JavaScript, jQuery, Sass, GULP.
 These sites were built with Bootstrap 4, javascript, sass, php, npm modules, I used yarn as dependency manager and other packages libraries.
 
 - [Microtec Site](https://www.microtecmx.com)
-- [servicios Franquicias](https://www.microtecmx.com/franquicias/)
+- [Franquicias](https://micro-tec.com.mx/pagina/franquicias-microtec/)
 - [Microtec Rewards](https://www.microtecmx.com/rewards/)
 
 - [MBC](https://ws.freeandgreen.mx/mbc/)
