@@ -18,6 +18,8 @@ These sites were built with Bootstrap 4, javascript, sass, php, npm modules, I u
 
 - [Microtec Site](https://www.microtecmx.com)
 - [servicios Franquicias](https://micro-tec.com.mx/pagina/franquicias-microtec/)
+
+- [Franquicias](https://micro-tec.com.mx/pagina/franquicias-microtec/)
 - [Microtec Rewards](https://www.microtecmx.com/rewards/)
 
 - [MBC](https://ws.freeandgreen.mx/mbc/)
